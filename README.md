@@ -45,3 +45,7 @@ services:
       - /path/to/source:/source
     restart: unless-stopped
 ```
+
+
+
+Feel free to join me on my discord server: https://discord.gg/p9xkjEw8ts
